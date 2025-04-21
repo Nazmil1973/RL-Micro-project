@@ -1,5 +1,5 @@
 # AUTONOMOUS DRONE NAVIGATION USING DQN
-his project demonstrates an autonomous drone navigating a 6x6 grid environment using a Deep Q-Network (DQN) for learning and decision-making. The drone learns to reach a target while avoiding randomly placed obstacles. Visualization is handled using Pygame with path planning shown via A* algorithm.
+This project demonstrates an autonomous drone navigating a 6x6 grid environment using a Deep Q-Network (DQN) for learning and decision-making. The drone learns to reach a target while avoiding randomly placed obstacles. Visualization is handled using Pygame with path planning shown via A* algorithm.
 
 ✅ Features 6x6 grid environment
 
